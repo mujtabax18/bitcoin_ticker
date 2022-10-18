@@ -22,4 +22,4 @@ I had made a crypto currency price checking app. At end of the module, I am be a
 
 
 ## Screen Shot
-![App Screen Shot](image/ss.PNG)
+![App Screen Shot](images/ss.PNG)
